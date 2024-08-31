@@ -1,4 +1,4 @@
-# src/merge_dicts.py
+
 
 def merge_dicts(dict1, dict2):
     """Merges two dictionaries, summing values of common keys."""

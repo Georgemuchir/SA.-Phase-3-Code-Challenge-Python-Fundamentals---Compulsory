@@ -1,4 +1,4 @@
-# src/count_vowels.py
+
 
 def count_vowels(text):
     """Returns the count of vowels (a, e, i, o, u) in the input string, case insensitive."""

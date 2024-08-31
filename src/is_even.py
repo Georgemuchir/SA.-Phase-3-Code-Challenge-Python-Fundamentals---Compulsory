@@ -1,4 +1,4 @@
-# src/is_even.py
+
 
 def is_even(number):
     """Returns True if the number is even, otherwise False."""

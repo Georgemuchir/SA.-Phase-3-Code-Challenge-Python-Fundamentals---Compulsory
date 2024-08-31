@@ -1,4 +1,4 @@
-# src/calculate_factorial.py
+
 
 def calculate_factorial(n):
     """Returns the factorial of a non-negative integer n."""

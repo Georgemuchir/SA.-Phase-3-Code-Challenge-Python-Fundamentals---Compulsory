@@ -1,4 +1,4 @@
-# src/apply_decorator.py
+
 
 def decorator_func(func):
     """Decorator that prints 'Decorator Applied' before calling the original function."""

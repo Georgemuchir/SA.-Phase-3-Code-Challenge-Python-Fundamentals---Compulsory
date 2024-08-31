@@ -1,4 +1,4 @@
-# src/reverse_string.py
+
 
 def reverse_string(text):
     """Returns the reversed version of the input string."""
